@@ -5,6 +5,9 @@
 ## Introduction
 This is a code repository for the full Realtime Chat Application by using React,Redux,Axios,Firebase
 
+Clone the project with git clone   
+```npm install``` 
+
 [Live](https://simple-chat-buildx.netlify.app/)
 
 
