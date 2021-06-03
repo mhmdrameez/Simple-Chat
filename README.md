@@ -1,6 +1,6 @@
 # Unichat Application
 
-![Chat Application](https://ibb.co/pPRz1df)
+![Chat Application](https://i.ibb.co/ZJY8fxB/Unichart.jpg)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
