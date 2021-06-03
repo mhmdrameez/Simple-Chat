@@ -1,6 +1,6 @@
 # Unichat Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+![Chat Application](https://ibb.co/pPRz1df)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
